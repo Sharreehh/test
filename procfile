@@ -1,2 +1,2 @@
-worker: node <your main file here>
+worker: node app.js
 web: npm start
