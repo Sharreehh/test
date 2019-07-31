@@ -1,1 +1,2 @@
-worker: node bot.js
+worker: node <your main file here>
+web: npm start
